@@ -5,7 +5,7 @@ const App = () => {
  const [fildata, setFildata] = useState(...product)
   return (
     <div>
-hello
+hello hi dosto
     </div>
   )
 }
